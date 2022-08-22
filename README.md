@@ -1,2 +1,5 @@
-# raphaellyv.github.io
-Currículo do Jornada Dev
+# Descrição do projeto
+Currículo on-line criado como parte da 'Jornada Dev' da EBAC.
+
+# Como acessar
+https://raphaellyv.github.io
